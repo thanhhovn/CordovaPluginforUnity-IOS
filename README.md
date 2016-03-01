@@ -60,4 +60,12 @@ Please note this line:
 
 You must add this, so Unity knows that you want your class as UIApplication delegate
 
-Just Compile This Project and reference to https://github.com/thanhhovn/CordovaPluginforUnity-IOS-Build To make Cordova work with Unity with Cordova Plugin add.
+Just Compile This Project.
+And Add pass argument to pass libCordova.a force local.
+Then Drag Your www folder of Cordova to Xcode Project.
+Add lib .m .h of Cordova plugin to build with Xcode , Then you can call Plugin of Cordova in Unity.
+For More info just extract "iossim-unity-cordova-ios.zip" and View it.
+
+Regards
+
+Thanh Ho
