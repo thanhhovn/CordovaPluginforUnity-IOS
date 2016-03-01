@@ -60,4 +60,4 @@ Please note this line:
 
 You must add this, so Unity knows that you want your class as UIApplication delegate
 
-
+Just Compile This Project and reference to https://github.com/thanhhovn/CordovaPluginforUnity-IOS-Build To make Cordova work with Unity with Cordova Plugin add.
