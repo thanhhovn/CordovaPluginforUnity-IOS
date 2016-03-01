@@ -66,6 +66,7 @@ Then Drag Your www folder of Cordova to Xcode Project.
 Add lib .m .h of Cordova plugin to build with Xcode , Then you can call Plugin of Cordova in Unity.
 For More info just extract "iossim-unity-cordova-ios.zip" and View it.
 
+And use UnitySendMessage function to get result from Cordova UiView and send back to Unity View
 Regards
 
 Thanh Ho
